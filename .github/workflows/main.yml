@@ -29,6 +29,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - uses: teachjing/javascript-action@v1
+      - uses: teachjing/javascript-action
         with:
           milliseconds: 1000
